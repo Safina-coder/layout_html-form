@@ -18,3 +18,4 @@ function onSubmit(event) {
     `Form name: ${form.name}\nForm value: ${JSON.stringify(formValue, null, 4)}`
   );
 }
+
