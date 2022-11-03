@@ -2,14 +2,14 @@
   margin-bottom: 20px;
 }
 
-/* div {
-  margin-bottom: 10px;
-} */
-
 div {
   margin-bottom: 10px;
 }
 
-.last {
+fieldset {
+  margin-bottom: 20px;
+}
+
+fieldset div:last-of-type {
   margin-bottom: 0;
 }
